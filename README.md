@@ -31,7 +31,7 @@ Initially, allowing students to view their upcoming classes was a release 2 task
 <b>Instrument Inventory & Hire</b><br/>
 The importance of this feature set lays in its inherent value to the school administrator as a instrument inventory tracking system. The ability for students to hire instruments from the school both allows them the convenience of owning an instrument for them to practise with, whilst also being an extra source income for the school. The student will be able to access a list of available instruments on the website, which allows for easy selection of an instrument for them to hire. Having the administrator have access to a list of currently hired instruments and the names of whoever has hired them, allows them to view and track the inventory and the condition of the instruments.
 
-![student](https://i.imgur.com/GxSaFPz.png)
+![student](https://i.imgur.com/URh0CXG.png)
 
 
 <b>User self-management</b><br/>
